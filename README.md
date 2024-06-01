@@ -14,3 +14,7 @@ Labs from the course DIT-407 Data Science and AI Group 30
 #### Lab 5
 
 #### Lab 6
+
+#### Lab 7
+
+#### Lab 8
